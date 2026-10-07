@@ -1,0 +1,8 @@
+outputs/*.jpg
+outputs/*.png
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
+__pycache__/
